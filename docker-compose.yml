@@ -1,0 +1,5 @@
+version: "3"
+
+services:
+  jmeter:
+    image: jmeter:5.6
